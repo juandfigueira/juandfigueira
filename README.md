@@ -5,7 +5,7 @@
 <br/>
 
 <a target="_blank" href="https://www.crabi.com/"><img src="https://img.shields.io/badge/CRABI-AUTOSEGUROS-00AEEF?style=for-the-badge&logo=c&logoColor=white" /></a><br/>
-<b>Building big-time features and solving</b><br/>
+<b>Currently building big-time features and solving</b><br/>
 <b>challenges with an incredible team of cracks. 🚀</b>
 <br/><br/>
 
